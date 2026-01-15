@@ -63,4 +63,6 @@ Common GitHub events:
 ```yaml  
 on:  
   push:  
-    branches: [ main ]  
+    branches: [ main ]
+
+When an event is performed, series of actions takes place, these chain of actions are called workflows.  
