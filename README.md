@@ -64,5 +64,5 @@ Common GitHub events:
 on:  
   push:  
     branches: [ main ]
-
-When an event is performed, series of actions takes place, these chain of actions are called workflows.  
+```
+When an event is performed, series of actions (such as sort,label,assign,reproduce etc) takes place, these chain of actions are called workflows.
